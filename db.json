@@ -12,12 +12,5 @@
                 imgAlt: "image was here",
                 header: "Cheddar Wonderburgers",
                 text: "Our huge recipe selection wows week after week."
-            },
-            {
-                id: 3,
-                imgUrl: require('assets/img/easyFresh/cardRecipe1.jpeg').default,
-                imgAlt: "image was here",
-                header: "Cherry Balsamic Chicken",
-                text: "Our huge recipe selection wows week after week."
             }
  ]
