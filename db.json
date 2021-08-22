@@ -1,16 +1,26 @@
-[    
-             {
-                id: 1,
-                imgUrl: require('assets/img/easyFresh/cardRecipe3.jpeg').default,
-                imgAlt: "image was here",
-                header: "Citrus Pork Tacos",
-                text: "Our huge recipe selection wows week after week."
-            },
-            {
-                id: 2,
-                imgUrl: require('assets/img/easyFresh/cardRecipe2.jpeg').default,
-                imgAlt: "image was here",
-                header: "Cheddar Wonderburgers",
-                text: "Our huge recipe selection wows week after week."
-            }
- ]
+{ "Recipes":
+
+    [    
+                 {
+                    id: 1,
+                    imgUrl: require('assets/img/easyFresh/cardRecipe3.jpeg').default,
+                    imgAlt: "image was here",
+                    header: "Citrus Pork Tacos",
+                    text: "Our huge recipe selection wows week after week."
+                },
+                {
+                    id: 2,
+                    imgUrl: require('assets/img/easyFresh/cardRecipe2.jpeg').default,
+                    imgAlt: "image was here",
+                    header: "Cheddar Wonderburgers",
+                    text: "Our huge recipe selection wows week after week."
+                },
+                {
+                    id: 3,
+                    imgUrl: require('assets/img/easyFresh/cardRecipe1.jpeg').default,
+                    imgAlt: "image was here",
+                    header: "Cherry Balsamic Chicken",
+                    text: "Our huge recipe selection wows week after week."
+                }
+     ]
+}
